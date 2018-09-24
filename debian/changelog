@@ -1,3 +1,21 @@
+pr2-udev (0.5.2-xenial) trusty; urgency=medium
+
+  [ TheDash ]
+  * added precise
+  * Added trusty
+  * No longer have the removable drive
+  * Change permissions so imu works
+
+  [ archielee ]
+  * Added new rule for certain controllers
+  * Added case where controller is not plugged in
+  * Added udev rule for serial console
+
+  [ David Feil-Seifer ]
+  * added xenial
+
+ -- David Feil-Seifer <dfseifer@azrael>  Mon, 24 Sep 2018 15:33:41 -0700
+
 pr2-udev (0.5.2-precise) stable; urgency=low
 
   * Incrementing to SVN: r1126
