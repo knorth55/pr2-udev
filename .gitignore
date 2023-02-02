@@ -1,0 +1,5 @@
+debian/.debhelper/*
+debian/files
+debian/pr2-udev.debhelper.log
+debian/pr2-udev.substvars
+debian/pr2-udev/*
